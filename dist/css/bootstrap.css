@@ -900,7 +900,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
@@ -999,7 +999,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: inherit;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
@@ -2293,6 +2293,9 @@ table th[class*="col-"] {
   .table-responsive > .table-bordered > tfoot > tr:last-child > td {
     border-bottom: 0;
   }
+}
+form {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 fieldset {
   min-width: 0;
@@ -5626,7 +5629,7 @@ button.close {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 12px;
   font-weight: normal;
   line-height: 1.4;
@@ -5734,7 +5737,7 @@ button.close {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 14px;
   font-weight: normal;
   line-height: 1.42857143;
